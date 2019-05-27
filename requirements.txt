@@ -1,0 +1,7 @@
+flask
+flask_httpauth
+Werkzeug
+gunicorn
+gevent
+pulp
+numpy
